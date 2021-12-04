@@ -4,6 +4,6 @@
  
  */
 
-$(document).ready(function () {
-    alert("teste");
-});
+//$(document).ready(function () {
+//    alert("teste");
+//});
