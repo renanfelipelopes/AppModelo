@@ -23,7 +23,8 @@ namespace DevIO.UI.Site.Controllers
             {
                 Nome = "Renan",
                 DataNascimento = DateTime.Now,
-                Email = "renan@email.com"
+                Email = "renan@email.com",
+                Registro = 21331
             };
 
             _contexto.Alunos.Add(aluno);
